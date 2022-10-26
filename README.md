@@ -29,8 +29,8 @@ Dimensionality reduction and clustering practice using attributes from Boston ce
 ## Variables Description
 | No.  | Variable Name | Source | Classification |
 | ------------- |:-------------:|:-------------:|:-------------:|
-| X1	| Population Density | 	DP05, Boston Tracts	|	Demographics related |
-| X2	| Sex Ratio | DP05 |	Demographics related |
+| X1	| Population density | 	DP05, Boston Tracts	|	Demographics related |
+| X2	| Sex ratio | DP05 |	Demographics related |
 | X3	| Percentage of minors (below 18)| DP05 |	Demographics related |
 | X4	| Percentage of prime-age population (18 to 64)| DP05	|	Demographics  related	|
 | X5	| Percentage of elderly population (above 65)| 	DP05	|	Demographics  related	|
@@ -44,19 +44,19 @@ Dimensionality reduction and clustering practice using attributes from Boston ce
 | X13	| Percentage of education level below high school| 	DP02	|	Demographics  related	|
 | X14	| Median earnings for workers| 	DP03 |	Demographics  related	|
 | X15	| Median earnings for workers / Per capita income| 	DP03	|	Demographics  related	|
-| X16	| Unemployed Rate| 	DP03	|	Demographics  related	|
+| X16	| Unemployed rate| 	DP03	|	Demographics  related	|
 | X17	| Median owner-occupied home price| 	DP04	|	Demographics  related	|
 | X18	| Occupancy rate|	DP04: Renter-occupied / DP04	|	Demographics  related	|
 | X19	| Median occupied units paying rent|	DP04	|	Demographics  related	|
-| X20	| Housing Density|	DP04, Boston Tracts	|	Environment related	|
-| X21	| Vacancy Rate|	DP04	|	Environment related	|
+| X20	| Housing density|	DP04, Boston Tracts	|	Environment related	|
+| X21	| Vacancy rate|	DP04	|	Environment related	|
 | X22	| Percentage of water area|	Boston Tracts	|	Environment related	|
 | X23	| The percentage of open space | OPEN SPACE, Boston Tracts |	Environment related	|
 | X24	| Street light density|	STREETLIGHT LOCATIONS, Boston Tracts	|	Environment related	|
 | X25	| Number of Blue Bike stations|	BLUE BIKE STATIONS	|	Environment related	|
 | X26	| Number of schools below college|	NON PUBLIC SCHOOLS + PUBLIC SCHOOLS	|	Environment related	|
 | X27	| Number of colleges and universities|	COLLEGES AND UNIVERSITIES	|	Environment related	|
-| X28	| Proportion of illegal buildings|	BUILDING AND PROPERTY VIOLATIONS, DP04	|	Environment related	|
+| X28	| Percentage of building and property violations|	BUILDING AND PROPERTY VIOLATIONS, DP04	|	Environment related	|
 | X29	| Number of free wifi|	WICKED FREE WIFI LOCATIONS	|	Environment related	|
 
 
